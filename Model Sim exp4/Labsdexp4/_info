@@ -1,0 +1,238 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp3
+Eq1
+Z0 w1713120709
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4
+Z4 8C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/Q1.vhd
+Z5 FC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/Q1.vhd
+l0
+L18
+VnSn=IB5B0Hci3IlMYL>ML2
+!s100 lc:jYM4I1RV59R3k<gi`B2
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1714073497
+!i10b 1
+Z8 !s108 1714073497.000000
+Z9 !s90 -reportprogress|300|-work|Labsdexp4|-2002|-explicit|-stats=none|C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/Q1.vhd|
+Z10 !s107 C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/Q1.vhd|
+!i113 1
+Z11 o-work Labsdexp4 -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarqq1
+R1
+R2
+DEx4 work 2 q1 0 22 nSn=IB5B0Hci3IlMYL>ML2
+l46
+L26
+VFd>7oiVmTFJdT0V?g>kU[0
+!s100 hn>1WLBIHDM>8gjaHZ@:V1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eq2
+Z13 w1713309175
+R1
+R2
+R3
+Z14 8C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/Q2.vhd
+Z15 FC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/Q2.vhd
+l0
+L21
+V`NbQAHhYJ7D2:=fkJYM4b0
+!s100 Y149;l=PPo5?<oEb_V?aU2
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|Labsdexp4|-2002|-explicit|-stats=none|C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/Q2.vhd|
+Z17 !s107 C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/Q2.vhd|
+!i113 1
+R11
+R12
+Aarqq2
+R1
+R2
+DEx4 work 2 q2 0 22 `NbQAHhYJ7D2:=fkJYM4b0
+l54
+L29
+V7C_z5=e>_8N=]h`T5EaWd3
+!s100 N_Z@g^]ahYKRDQEi[bHge2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Etb_q2
+Z18 w1713295456
+R3
+Z19 8C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp4\tb_Q2.vhd
+Z20 FC:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp4\tb_Q2.vhd
+l0
+L16
+V=bg`deDI@Dg0aUi]G=]6b0
+!s100 mG?[Q<?EadE5kbM7=J[m92
+R6
+32
+Z21 !s110 1713295460
+!i10b 1
+Z22 !s108 1713295460.000000
+Z23 !s90 -reportprogress|300|-work|Labsdexp4|-2002|-explicit|-stats=none|C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp4\tb_Q2.vhd|
+Z24 !s107 C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp4\tb_Q2.vhd|
+!i113 1
+R11
+R12
+Atestbench2
+DEx4 work 5 tb_q2 0 22 =bg`deDI@Dg0aUi]G=]6b0
+Z25 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+l46
+L27
+Vn00zEN3Ai?Tm:b:9[8OLC1
+!s100 L:kHkR3ZYoIYH626RY6n>2
+R6
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R11
+R12
+Etb_questao2
+Z26 w1713295334
+R3
+Z27 8C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/tb_Q2.vhd
+Z28 FC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/tb_Q2.vhd
+l0
+L16
+V^<o;WSWQ?T[V9PG>fLbNC0
+!s100 eT7e;g@H]c_MF_Hg0fmRj3
+R6
+32
+Z29 !s110 1713295344
+!i10b 1
+Z30 !s108 1713295344.000000
+Z31 !s90 -reportprogress|300|-work|Labsdexp4|-2002|-explicit|-stats=none|C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/tb_Q2.vhd|
+Z32 !s107 C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/tb_Q2.vhd|
+!i113 1
+R11
+R12
+Atestbench
+DEx4 work 11 tb_questao2 0 22 ^<o;WSWQ?T[V9PG>fLbNC0
+R25
+R1
+R2
+l47
+L28
+V9ZTnLQMe]9X]<]=lK5<=T0
+!s100 CYSiKMS6:X40`jeZPnhWB3
+R6
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R11
+R12
+Etestbench1
+Z33 w1713120711
+R3
+Z34 8C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/tb_Q1.vhd
+Z35 FC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/tb_Q1.vhd
+l0
+L14
+Vn=]iG05UzoI37XzTz9?ES1
+!s100 [?_4]5:AbP9Y8H1mgI:2:3
+R6
+32
+R7
+!i10b 1
+R8
+Z36 !s90 -reportprogress|300|-work|Labsdexp4|-2002|-explicit|-stats=none|C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/tb_Q1.vhd|
+Z37 !s107 C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4/tb_Q1.vhd|
+!i113 1
+R11
+R12
+Atb_q1
+DEx4 work 10 testbench1 0 22 n=]iG05UzoI37XzTz9?ES1
+R1
+R2
+l43
+L23
+V@V__JHciG>R0IiVX24]<60
+!s100 hAX^_7]GFcCPH;WE<4B^L1
+R6
+32
+R7
+!i10b 1
+R8
+R36
+R37
+!i113 1
+R11
+R12
+Etestbench2
+Z38 w1713309409
+R3
+R27
+R28
+l0
+L18
+VCOmJ43H^3GmmnV6Nc?D=i0
+!s100 Pz^JS<;B2Na[ea93:g7i>3
+R6
+32
+R7
+!i10b 1
+R8
+R31
+R32
+!i113 1
+R11
+R12
+Atb_q2
+Z39 DEx4 work 10 testbench2 0 22 COmJ43H^3GmmnV6Nc?D=i0
+R1
+R2
+l43
+L27
+Z40 V2LXc@E26GbGG[F<^UVYOJ2
+Z41 !s100 SD>looDM=]KYUEFM_Saj=2
+R6
+32
+R7
+!i10b 1
+R8
+R31
+R32
+!i113 1
+R11
+R12

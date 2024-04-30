@@ -1,0 +1,250 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp4
+Eq1
+Z0 w1714157402
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp5
+Z4 8C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q1(5).vhd
+Z5 FC:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q1(5).vhd
+l0
+L15
+V7;N_C;``EE32XCk>T]=]F3
+!s100 Q9f8HMd>FPc:dMQ^0_L_K2
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1714327991
+!i10b 1
+Z8 !s108 1714327991.000000
+Z9 !s90 -reportprogress|300|-work|Labsdexp5|-2002|-explicit|-stats=none|C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q1(5).vhd|
+Z10 !s107 C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q1(5).vhd|
+!i113 1
+Z11 o-work Labsdexp5 -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarq
+R1
+R2
+DEx4 work 2 q1 0 22 7;N_C;``EE32XCk>T]=]F3
+l37
+L24
+VFP:?<AXzl?iFg;CAzkPZ53
+!s100 LhEk5acUhiOme9IG=O]:c0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eq2
+Z13 w1714325445
+Z14 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R1
+R2
+R3
+Z15 8C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q2(5).vhd
+Z16 FC:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q2(5).vhd
+l0
+L16
+Vn<EAf5MgFPVYh8NEcQZ952
+!s100 SW[XTQB?dH60N=UScM]jm2
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|Labsdexp5|-2002|-explicit|-stats=none|C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q2(5).vhd|
+Z18 !s107 C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q2(5).vhd|
+!i113 1
+R11
+R12
+Aarq
+R14
+R1
+R2
+DEx4 work 2 q2 0 22 n<EAf5MgFPVYh8NEcQZ952
+l27
+L25
+VA7PBIWKEcCR:XHKbH;bEG3
+!s100 oLjXemfR65XK3AMd0j^NN1
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Esomador
+Z19 w1714076767
+R1
+R2
+R3
+Z20 8C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp5/somador.vhd
+Z21 FC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp5/somador.vhd
+l0
+L17
+VSgG=H>T6b@@HQC:d`2F8[2
+!s100 GDe;8I5E[K4fikNjdMSen0
+R6
+32
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|Labsdexp5|-2002|-explicit|-stats=none|C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp5/somador.vhd|
+Z23 !s107 C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp5/somador.vhd|
+!i113 1
+R11
+R12
+Aarq
+R1
+R2
+Z24 DEx4 work 7 somador 0 22 SgG=H>T6b@@HQC:d`2F8[2
+l27
+L25
+Z25 VOXeYn0CIDVKkfS^QEcWAG0
+Z26 !s100 0XzW<:P_5zVfmUh0Ek^IJ1
+R6
+32
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Etb_q1
+Z27 w1714325574
+R1
+R2
+R3
+Z28 8C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\tb_Q1(5).vhd
+Z29 FC:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\tb_Q1(5).vhd
+l0
+L15
+VfS9Mmg_WTcmm?iDAY>QM32
+!s100 i@AeA^_6gc>EnWikdMbz63
+R6
+32
+R7
+!i10b 1
+R8
+Z30 !s90 -reportprogress|300|-work|Labsdexp5|-2002|-explicit|-stats=none|C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\tb_Q1(5).vhd|
+Z31 !s107 C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\tb_Q1(5).vhd|
+!i113 1
+R11
+R12
+Atestbench
+R1
+R2
+DEx4 work 5 tb_q1 0 22 fS9Mmg_WTcmm?iDAY>QM32
+l35
+L19
+Vz1zno45D9m:O2^oQ=kk9O1
+!s100 TBQnQBE7DiIAn@agk00650
+R6
+32
+R7
+!i10b 1
+R8
+R30
+R31
+!i113 1
+R11
+R12
+Etb_q2
+Z32 w1714325755
+R14
+R1
+R2
+R3
+Z33 8C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\tb_Q2(5).vhd
+Z34 FC:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\tb_Q2(5).vhd
+l0
+L18
+VZ^cVT>847_JNo_jkg4=Ag0
+!s100 Mhf3lR9z5c7^1F24S5z@T0
+R6
+32
+R7
+!i10b 1
+R8
+Z35 !s90 -reportprogress|300|-work|Labsdexp5|-2002|-explicit|-stats=none|C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\tb_Q2(5).vhd|
+Z36 !s107 C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\tb_Q2(5).vhd|
+!i113 1
+R11
+R12
+Atestbench
+R14
+R1
+R2
+DEx4 work 5 tb_q2 0 22 Z^cVT>847_JNo_jkg4=Ag0
+l38
+L22
+VRaIE_PHQ0WJofH]]8QKRc2
+!s100 <7T6iILWAmFbGO1nNz=ob0
+R6
+32
+R7
+!i10b 1
+R8
+R35
+R36
+!i113 1
+R11
+R12
+Etb_q3
+Z37 w1714327956
+Z38 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z39 8C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q3(5).vhd
+Z40 FC:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q3(5).vhd
+l0
+L17
+V@;Sn2EF^2V404kXmTPnao0
+!s100 T2c_l;SY8X9OMD]6GUlRR0
+R6
+32
+R7
+!i10b 1
+R8
+Z41 !s90 -reportprogress|300|-work|Labsdexp5|-2002|-explicit|-stats=none|C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q3(5).vhd|
+Z42 !s107 C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q3(5).vhd|
+!i113 1
+R11
+R12
+Atestbench
+R38
+R1
+R2
+DEx4 work 5 tb_q3 0 22 @;Sn2EF^2V404kXmTPnao0
+l45
+L21
+V]n]1?CEA3geGSEQ8A_B=j1
+!s100 _6YDGGfEB6nnm4FIce88]0
+R6
+32
+R7
+!i10b 1
+R8
+R41
+R42
+!i113 1
+R11
+R12

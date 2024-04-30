@@ -1,0 +1,43 @@
+{C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp5/Q1(5).vhd} {1 {vcom -work Labsdexp5 -2002 -explicit -stats=none {C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q1(5).vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Q1
+-- Compiling architecture arq of Q1
+
+} {} {}} {C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp5/tb_Q1(5).vhd} {1 {vcom -work Labsdexp5 -2002 -explicit -stats=none {C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\tb_Q1(5).vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_Q1
+-- Compiling architecture testbench of tb_Q1
+
+} {} {}} {C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp5/Q2(5).vhd} {1 {vcom -work Labsdexp5 -2002 -explicit -stats=none {C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\Q2(5).vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity Q2
+-- Compiling architecture arq of Q2
+
+} {} {}} {C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp5/somador.vhd} {1 {vcom -work Labsdexp5 -2002 -explicit -stats=none {C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp5/somador.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity somador
+-- Compiling architecture arq of somador
+
+} {} {}} {C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp5/tb_Q2(5).vhd} {1 {vcom -work Labsdexp5 -2002 -explicit -stats=none {C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp5\tb_Q2(5).vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity tb_Q2
+-- Compiling architecture testbench of tb_Q2
+
+} {} {}}

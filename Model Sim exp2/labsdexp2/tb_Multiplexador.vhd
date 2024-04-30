@@ -1,0 +1,80 @@
+-- **************
+-- Testbench para simulacao funcional do
+-- Circuito: Multiplexador
+-- D0 Entrada 1
+-- D1 Entrada 2
+-- D2 Entrada 3
+-- D3 Entrada 4
+-- Seletor S (S0 e S1) Entrada de selecao
+-- Y Saida 1
+
+-- ***********************************
+
+-- ENTITY ( Entidade )
+-- testbench2 uma entidade sem pinos de entrada e saida
+entity testbench2 is end ;
+
+-- Testbench para Multiplexador.vhd
+-- Validacao assincrona
+
+--Bibliotecas
+library IEEE;
+use ieee.std_logic_1164.ALL;
+use std . textio . all ;
+
+
+--Arquitetura
+architecture tb_Multiplexador of testbench2 is
+
+--Declaracao do componente Multiplexador, referente a entidade do arquivo Multiplexador.vhd
+
+component Multiplexador
+   port ( 
+      D0,D1,D2,D3: in std_logic;      --Entrada de 4 bits
+      S0,S1: in std_logic;            --Seletor de 2 bits
+      Y: out std_logic               --Saida
+   );
+end component;
+
+--Inputs
+signal D0,D1,D2,D3 : std_logic := '0';
+signal S0,S1 : std_logic := '0';
+ 
+--Outputs
+   signal Y : std_logic;
+
+begin
+   teste: Multiplexador port map (D0 => D0, D1 => D1, D2 => D2, D3 => D3, S0 => S0, S1 => S1, Y => Y);
+
+   --Implementacao do processo de estimulo
+   estimulo : process
+   begin
+
+      --Esperar por 10 ns.
+      wait for 10 ns; 
+      
+      --Definicao das entradas
+      D0 <= '0';
+      D1 <= '1';
+      D2 <= '0';
+      D3 <= '1';
+
+      --Mudando S0 e S1
+      S0 <= '0'; S1 <= '0'; -- Seleciona D0
+      wait for 10 ns;
+
+      S0 <= '0'; S1 <= '1'; -- Seleciona D1
+      wait for 10 ns;
+
+      S0 <= '1'; S1 <= '0'; -- Seleciona D2
+      wait for 10 ns;
+
+      S0 <= '1'; S1 <= '1'; -- Seleciona D3
+      wait for 10 ns;
+   
+      --Finaliza a simulacao
+      wait; 
+
+   end process estimulo;
+end tb_Multiplexador;
+
