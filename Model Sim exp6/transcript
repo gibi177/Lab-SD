@@ -1,0 +1,65 @@
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# Compile of Q1(6).vhd failed with 3 errors.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# Compile of Q1(6).vhd was successful.
+vsim -gui Labsdexp6.tb_q1
+# vsim -gui Labsdexp6.tb_q1 
+# Start time: 20:34:54 on May 07,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q1(testbench)
+# Loading Labsdexp6.q1(arq)
+add wave -position insertpoint sim:/tb_q1/*
+run
+add wave -position insertpoint sim:/tb_q1/*
+vsim -gui Labsdexp6.tb_q1
+# End time: 20:36:02 on May 07,2024, Elapsed time: 0:01:08
+# Errors: 0, Warnings: 0
+# vsim -gui Labsdexp6.tb_q1 
+# Start time: 20:36:02 on May 07,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q1(testbench)
+# Loading Labsdexp6.q1(arq)
+add wave -position insertpoint sim:/tb_q1/*
+run
+vsim -gui Labsdexp6.tb_q1
+# End time: 21:30:42 on May 07,2024, Elapsed time: 0:54:40
+# Errors: 0, Warnings: 0
+# vsim -gui Labsdexp6.tb_q1 
+# Start time: 21:30:42 on May 07,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q1(testbench)
+# Loading Labsdexp6.q1(arq)
+add wave -position insertpoint sim:/tb_q1/*
+run
+# Compile of tb_Q1(6).vhd was successful with warnings.
+vsim -gui Labsdexp6.tb_q1
+# End time: 21:57:34 on May 07,2024, Elapsed time: 0:26:52
+# Errors: 0, Warnings: 0
+# vsim -gui Labsdexp6.tb_q1 
+# Start time: 21:57:34 on May 07,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q1(testbench)
+# Loading Labsdexp6.q1(arq)
+add wave -position insertpoint sim:/tb_q1/*
+run
+# Compile of tb_Q1(6).vhd was successful with warnings.
+vsim -gui Labsdexp6.tb_q1
+# End time: 22:00:50 on May 07,2024, Elapsed time: 0:03:16
+# Errors: 0, Warnings: 0
+# vsim -gui Labsdexp6.tb_q1 
+# Start time: 22:00:50 on May 07,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q1(testbench)
+# Loading Labsdexp6.q1(arq)
+add wave -position insertpoint sim:/tb_q1/*
+run

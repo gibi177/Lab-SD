@@ -1,0 +1,9 @@
+{C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp6/Q1(6).vhd} {1 {vcom -work Labsdexp6 -2002 -explicit -stats=none {C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp6\Q1(6).vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Q1
+-- Compiling architecture arq of Q1
+
+} {} {}}
