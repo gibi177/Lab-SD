@@ -1,65 +1,349 @@
 # Compile of tb_Q1(6).vhd was successful with warnings.
-# Compile of Q1(6).vhd failed with 3 errors.
-# Compile of tb_Q1(6).vhd was successful with warnings.
+# Compile of Q2(6).vhd failed with 3 errors.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd failed with 2 errors.
+# Compile of tb_Q2(6).vhd was successful with warnings.
 # Compile of Q1(6).vhd was successful.
-vsim -gui Labsdexp6.tb_q1
-# vsim -gui Labsdexp6.tb_q1 
-# Start time: 20:34:54 on May 07,2024
-# Loading std.standard
-# Loading std.textio(body)
-# Loading ieee.std_logic_1164(body)
-# Loading Labsdexp6.tb_q1(testbench)
-# Loading Labsdexp6.q1(arq)
-add wave -position insertpoint sim:/tb_q1/*
-run
-add wave -position insertpoint sim:/tb_q1/*
-vsim -gui Labsdexp6.tb_q1
-# End time: 20:36:02 on May 07,2024, Elapsed time: 0:01:08
-# Errors: 0, Warnings: 0
-# vsim -gui Labsdexp6.tb_q1 
-# Start time: 20:36:02 on May 07,2024
-# Loading std.standard
-# Loading std.textio(body)
-# Loading ieee.std_logic_1164(body)
-# Loading Labsdexp6.tb_q1(testbench)
-# Loading Labsdexp6.q1(arq)
-add wave -position insertpoint sim:/tb_q1/*
-run
-vsim -gui Labsdexp6.tb_q1
-# End time: 21:30:42 on May 07,2024, Elapsed time: 0:54:40
-# Errors: 0, Warnings: 0
-# vsim -gui Labsdexp6.tb_q1 
-# Start time: 21:30:42 on May 07,2024
-# Loading std.standard
-# Loading std.textio(body)
-# Loading ieee.std_logic_1164(body)
-# Loading Labsdexp6.tb_q1(testbench)
-# Loading Labsdexp6.q1(arq)
-add wave -position insertpoint sim:/tb_q1/*
-run
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
 # Compile of tb_Q1(6).vhd was successful with warnings.
-vsim -gui Labsdexp6.tb_q1
-# End time: 21:57:34 on May 07,2024, Elapsed time: 0:26:52
-# Errors: 0, Warnings: 0
-# vsim -gui Labsdexp6.tb_q1 
-# Start time: 21:57:34 on May 07,2024
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 21:44:25 on May 08,2024
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
-# Loading Labsdexp6.tb_q1(testbench)
-# Loading Labsdexp6.q1(arq)
-add wave -position insertpoint sim:/tb_q1/*
+# Loading Labsdexp6.tb_q2(testbench2)
+# ** Warning: (vsim-3473) Component instance "dut : Q2" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_q2 File: C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp6/tb_Q2(6).vhd
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlfttyqx07".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlfttyqx07
 run
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd failed with 2 errors.
+# Compile of tb_Q2(6).vhd was successful with warnings.
 # Compile of tb_Q1(6).vhd was successful with warnings.
-vsim -gui Labsdexp6.tb_q1
-# End time: 22:00:50 on May 07,2024, Elapsed time: 0:03:16
-# Errors: 0, Warnings: 0
-# vsim -gui Labsdexp6.tb_q1 
-# Start time: 22:00:50 on May 07,2024
+# 4 compiles, 1 failed with 2 errors.
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:19:17 on May 08,2024, Elapsed time: 0:34:52
+# Errors: 0, Warnings: 3
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:19:17 on May 08,2024
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
-# Loading Labsdexp6.tb_q1(testbench)
-# Loading Labsdexp6.q1(arq)
-add wave -position insertpoint sim:/tb_q1/*
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlftj0d287".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftj0d287
+run
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:20:25 on May 08,2024, Elapsed time: 0:01:08
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:20:25 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlft3rczg3".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft3rczg3
+run
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd failed with 2 errors.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 1 failed with 2 errors.
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:29:13 on May 08,2024, Elapsed time: 0:08:48
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:29:13 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlfteryyz4".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlfteryyz4
+run
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:30:40 on May 08,2024, Elapsed time: 0:01:27
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:30:40 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlftsf111s".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftsf111s
+run
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:31:36 on May 08,2024, Elapsed time: 0:00:56
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:31:36 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlftgfve3s".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftgfve3s
+run
+# Compile of Q2(6).vhd was successful.
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd failed with 2 errors.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 1 failed with 2 errors.
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:40:58 on May 08,2024, Elapsed time: 0:09:22
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:40:58 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlftkzv7t4".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftkzv7t4
+run
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:42:21 on May 08,2024, Elapsed time: 0:01:23
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:42:21 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlftt7svad".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftt7svad
+run
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:43:06 on May 08,2024, Elapsed time: 0:00:45
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:43:06 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlfty8j513".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlfty8j513
+run
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:45:29 on May 08,2024, Elapsed time: 0:02:23
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:45:29 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlftwd9g4z".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftwd9g4z
+run
+# Compile of Q2(6).vhd was successful.
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:47:43 on May 08,2024, Elapsed time: 0:02:14
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:47:43 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlft2rnf9h".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft2rnf9h
+run
+add wave -position insertpoint sim:/tb_q2/*
+run
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:48:30 on May 08,2024, Elapsed time: 0:00:47
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:48:30 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlftehd2jr".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftehd2jr
+run
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:50:02 on May 08,2024, Elapsed time: 0:01:32
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:50:02 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlft79jkme".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft79jkme
+run
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:55:09 on May 08,2024, Elapsed time: 0:05:07
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:55:09 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlftzim929".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftzim929
+run
+# Compile of Q1(6).vhd was successful.
+# Compile of Q2(6).vhd was successful.
+# Compile of tb_Q2(6).vhd was successful with warnings.
+# Compile of tb_Q1(6).vhd was successful with warnings.
+# 4 compiles, 0 failed with no errors.
+vsim -gui Labsdexp6.tb_q2
+# End time: 22:57:19 on May 08,2024, Elapsed time: 0:02:10
+# Errors: 0, Warnings: 2
+# vsim -gui Labsdexp6.tb_q2 
+# Start time: 22:57:19 on May 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading Labsdexp6.tb_q2(testbench2)
+# Loading Labsdexp6.q2(arq)
+add wave -position insertpoint sim:/tb_q2/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: gibin  Hostname: FELIPE  ProcessID: 7724
+#           Attempting to use alternate WLF file "./wlftq2rb2q".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftq2rb2q
 run
