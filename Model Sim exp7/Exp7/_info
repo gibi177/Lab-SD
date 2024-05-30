@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp6
+Eq1
+Z0 w1717079975
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp7
+Z4 8C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp7\Q1(7).vhd
+Z5 FC:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp7\Q1(7).vhd
+l0
+L25
+V2iR7AKH`Sb?8BU]k4V?ke0
+!s100 YUTl5gkNbIQbI`VbYl3TB2
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1717080186
+!i10b 1
+Z8 !s108 1717080186.000000
+Z9 !s90 -reportprogress|300|-work|Exp7|-2002|-explicit|-stats=none|C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp7\Q1(7).vhd|
+Z10 !s107 C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp7\Q1(7).vhd|
+!i113 1
+Z11 o-work Exp7 -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarq
+R1
+R2
+DEx4 work 2 q1 0 22 2iR7AKH`Sb?8BU]k4V?ke0
+l46
+L37
+VmkKnf[AAcMRMAD:NO^nM50
+!s100 F^z>oWITVnFlVk^32>R?E3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etb_q1
+Z13 w1717080179
+R1
+R2
+R3
+Z14 8C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp7\tb_Q1(7).vhd
+Z15 FC:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp7\tb_Q1(7).vhd
+l0
+L27
+Vd;<]h?GLEL=EZ_kYk39I22
+!s100 1Pzo4^zg[W7Sl?_9`K;z[3
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|Exp7|-2002|-explicit|-stats=none|C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp7\tb_Q1(7).vhd|
+Z17 !s107 C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp7\tb_Q1(7).vhd|
+!i113 1
+R11
+R12
+Atestbench
+R1
+R2
+DEx4 work 5 tb_q1 0 22 d;<]h?GLEL=EZ_kYk39I22
+l53
+L31
+VPhZUjH=9jB6aZkM1D30TG0
+!s100 N:EjAcDkYL5dS10RDWJD03
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
