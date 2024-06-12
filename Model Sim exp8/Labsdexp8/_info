@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp7
+Econtador10
+Z0 w1718224763
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp8
+Z4 8C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp8/contador10.vhd
+Z5 FC:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp8/contador10.vhd
+l0
+L26
+VP81kZAQD`P<<e5i6G5:eH0
+!s100 h<H3YVP1iLX7d<a5cFj3`0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1718228659
+!i10b 1
+Z8 !s108 1718228659.000000
+Z9 !s90 -reportprogress|300|-work|Labsdexp8|-2002|-explicit|-stats=none|C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp8/contador10.vhd|
+Z10 !s107 C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp8/contador10.vhd|
+!i113 1
+Z11 o-work Labsdexp8 -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarq
+R1
+R2
+DEx4 work 10 contador10 0 22 P81kZAQD`P<<e5i6G5:eH0
+l46
+L36
+Vfoh_P]1LU]Q209kH[NhUc0
+!s100 6:79o_nYkIacHCzk2DNoN0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Econtador100
+Z13 w1718228647
+R1
+R2
+R3
+Z14 8C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp8\contador100.vhd
+Z15 FC:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp8\contador100.vhd
+l0
+L26
+VFjB4jIi9gKRZ6DOn4:LS61
+!s100 AeV1jPgnROgD4dXJI;P?01
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|Labsdexp8|-2002|-explicit|-stats=none|C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp8\contador100.vhd|
+Z17 !s107 C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp8\contador100.vhd|
+!i113 1
+R11
+R12
+Aarq
+R1
+R2
+DEx4 work 11 contador100 0 22 FjB4jIi9gKRZ6DOn4:LS61
+l51
+L35
+VJWGnYR9TOoI9VNaN10]RI0
+!s100 [U<<`?kz9CF6j80_2oL=b1
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Etb_contador100
+Z18 w1718230362
+R1
+R2
+R3
+Z19 8C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp8\tb_contador100.vhd
+Z20 FC:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp8\tb_contador100.vhd
+l0
+L28
+VDWJ4GZGEaZ:STR=9cTM032
+!s100 dePo2S>7FOiYfH8:[`h?S2
+R6
+32
+Z21 !s110 1718230368
+!i10b 1
+Z22 !s108 1718230368.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp8\tb_contador100.vhd|
+Z24 !s107 C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp8\tb_contador100.vhd|
+!i113 1
+Z25 o-work work -2002 -explicit
+R12
+Atestbench
+R1
+R2
+Z26 DEx4 work 14 tb_contador100 0 22 DWJ4GZGEaZ:STR=9cTM032
+l49
+L32
+VgmMFb7U0m0BD3od`<dV?Q3
+!s100 WU7aZ@bFQ]43KoU8Ud>c;2
+R6
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R25
+R12

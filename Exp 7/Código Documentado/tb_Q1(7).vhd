@@ -33,12 +33,12 @@ architecture testbench of tb_Q1 is
     --Declaracao do componente Q1, referente a entidade do arquivo Q1.vhd
     component Q1 is
         port (
-        A: in std_logic_vector(1 downto 0);
-        CLK: in std_logic;
-        RST: in std_logic;
-        R: out std_logic;
-        T25: out std_logic;
-        T50: out std_logic
+            A: in std_logic_vector(1 downto 0);
+            CLK: in std_logic;
+            RST: in std_logic;
+            R: out std_logic;
+            T25: out std_logic;
+            T50: out std_logic
         );
     end component;
 

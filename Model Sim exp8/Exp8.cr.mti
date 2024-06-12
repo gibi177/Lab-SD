@@ -1,0 +1,17 @@
+{C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp8/contador100.vhd} {1 {vcom -work Labsdexp8 -2002 -explicit -stats=none {C:\Users\gibin\OneDrive\Desktop\Lab SD\Model Sim exp8\contador100.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity contador100
+-- Compiling architecture arq of contador100
+
+} {} {}} {C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp8/contador10.vhd} {1 {vcom -work Labsdexp8 -2002 -explicit -stats=none {C:/Users/gibin/OneDrive/Desktop/Lab SD/Model Sim exp8/contador10.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity contador10
+-- Compiling architecture arq of contador10
+
+} {} {}}
